@@ -60,8 +60,40 @@ Several enhancements are planned for future iterations:
 ## Getting Started
 
 1. Clone this repository
-2. Open `index.html` in a modern web browser
-3. Move your mouse to interact with the particle system
+   ```
+   git clone https://github.com/CodeDeficient/3D-particle-simulator-water.git
+   cd 3D-particle-simulator-water
+   ```
+
+2. Start a local web server. There are several ways to do this:
+   
+   **Using Python (recommended):**
+   ```
+   # If you have Python installed:
+   # Python 3.x
+   python -m http.server 8000
+   # Python 2.x
+   python -m SimpleHTTPServer 8000
+   ```
+   
+   **Using Node.js:**
+   ```
+   # If you have Node.js installed:
+   # Install http-server globally (one time)
+   npm install -g http-server
+   # Run server
+   http-server -p 8000
+   ```
+   
+   **Using VS Code:**
+   Install the "Live Server" extension and right-click on index.html to select "Open with Live Server"
+
+3. Open your browser and navigate to:
+   ```
+   http://localhost:8000
+   ```
+
+4. Move your mouse to interact with the particle system
 
 ## Acknowledgments
 
