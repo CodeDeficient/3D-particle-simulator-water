@@ -57,6 +57,12 @@ Several enhancements are planned for future iterations:
 - p5.js Library
 - HTML5/CSS3
 
+## Requirements
+
+- **Modern Web Browser** with WebGL support (Chrome, Firefox, Edge, or Safari recommended)
+- **Internet Connection** (required for loading the p5.js library from CDN)
+- **Local Server** capability (using Python, Node.js, or a similar tool)
+
 ## Getting Started
 
 1. Clone this repository
