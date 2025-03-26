@@ -2,7 +2,7 @@
 
 An interactive 3D particle system that simulates fluid dynamics with mouse interaction, built using p5.js.
 
-![Particle Simulator](https://github.com/CodeDeficient/3D-particle-simulator-water/raw/main/preview.png)
+![Particle Simulator](./preview.png)
 
 ## Overview
 
